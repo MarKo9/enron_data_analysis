@@ -14,7 +14,7 @@ tester.py
 feature_format.py
 フィーチャーデータをpython dictionaryから、sk-learnで使用可能なデータを変更出来るファイル
 
-# 以下のファイルはpoi_id.pyからのエクスポートです。
+### 以下のファイルはpoi_id.pyからのエクスポートです。
 
 my_feature_list.pkl
 
