@@ -1,5 +1,11 @@
 # enron_data_analysis
 
+##プロジェクトの概要
+エンロン社の財務データが公式に発表されています。そのデータは１４６社員に対してフィーチャーを４０個？？があり、詐欺の疑いで捕まった社員や政府から申し立てされた社員、起訴を免れるため証言者となった社員も含んでいました。そのデータを生かして詐欺が行った他の社員も明確にするアルゴリズムを開発したプロジェクトとなっています。
+
+使用されたアルゴリズムはSVC, GaussianNB, DecisionTreeClassifier と AdaBoostClassifier, KNeighborsClassifierのなか、最も効果が良かったはDecisionTreeClassifierになりました。 ＊１：当プロジェクトは当時に通っていたオンラインデータサイエンスコース（Udacity – Data Analyst）の一部となりますのでレポートは英語です。プロジェクトのgithubはこちらです。
+
+
 ## ファイルの説明
 
 poi_id.py：
