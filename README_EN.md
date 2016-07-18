@@ -1,4 +1,4 @@
-# Identify Fraud from Enron Financial Data
+# Identify Fraud from the Enron Financial Data
 
 ## Project summary
 
